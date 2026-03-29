@@ -6,7 +6,6 @@
  2. Grace Klatt [@gracecklatt](https://www.github.com/gracecklatt)
  3. Rocco Garcia [@roccog2024](https://www.github.com/roccog2024)
  4. Kory Cote [@Korycote](https://www.github.com/Korycote)
- 5. 
 
 ## Problem Description
 The goal of this project is to model and build a relational database for the general operations of an organization. For our project we decided to create our data model for a fully functioning service hotel. The central entity in the model is Reservation which allows a tie to guest, rooms, employees, promotions, and financial data. The hotel operates a variety of departments and services, including a bar and restaurant, housekeeping, maintenance, and promotional campaigns. Our goal is to accurately model these relationships and generate sample data similar to that of a real hotel. Additionally, we will use the data model to create queries that can provide business insight into a hotel's daily operations, revenue performance, and service efficiency.
