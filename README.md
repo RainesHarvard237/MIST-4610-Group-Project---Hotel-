@@ -141,7 +141,8 @@ Query 4 allows hotel management to better understand how guest satisfaction corr
 
 5. Give the names of all employees who cleaned a room where the notes mention - something dirty or damaged.
 <img width="647" height="797" alt="image" src="https://github.com/user-attachments/assets/0c5b18e2-2796-4f47-b1d3-53a6f098f534" />
- 
+
+Query 5 finds the names of employees who cleaned a room where something was noted as dirty or damaged, this helps management note where items may need to be replaced or checked up on.
 
 6. Lists the five items that have generated the highest the highest total revenue across all service orders, including the outlet they belong to and total units sold.
 <img width="817" height="756" alt="image" src="https://github.com/user-attachments/assets/d54dd7fa-7317-4805-88b9-f45fc3832d25" />
@@ -151,12 +152,12 @@ Query 6 identifies the hotel's best-selling menu items by total revenue. The man
 7. Lists the invoice with the most expensive reservation.
 <img width="822" height="362" alt="image" src="https://github.com/user-attachments/assets/358f819b-c97f-4d91-aacb-94dabc9399e2" />
 
-Query 7
+Query 7 allows hotel management to identify which guest associated with the highest invoice total in the system. It helps staff and executives see which reservation generated the most revenue, which can be useful for tracking high-value guests and allow the company to capitalize off them. This query also allows them to review financial billing activities.
 
 8. Lists how many times the most popular menu item was consumed.
 <img width="823" height="427" alt="image" src="https://github.com/user-attachments/assets/e8f3ba0f-d24d-45f9-86aa-e7bcf1454aa0" />
 
-Query 8
+Query 8 helps depict how often the most popular menu item was ordered. This aids the restaurant when designing new menus and cuisine. They can design their menus around what customers are ordering. 
 
 10. Calculate the percentage of guests that paid for their reservation with a credit card.
 <img width="802" height="421" alt="image" src="https://github.com/user-attachments/assets/4bf6b0f2-0b05-4508-8153-afa1d83c52b6" />
