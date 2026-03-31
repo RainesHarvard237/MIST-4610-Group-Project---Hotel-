@@ -111,6 +111,9 @@ Table: Service_Order
 **Table: Review** 
 <img width="1088" height="247" alt="Review" src="https://github.com/user-attachments/assets/0b458ca0-a606-47d6-acca-3c491804185b" />
 
+3. Lists all rooms that have no associated records in the the Maintenance_Request table, including which room they are in, the type of room and the floor.
+
+4. Calculates the average quest review rating for each room type, along with the total number of reviews submitted, ordered by average rating in descending order. 
 
 
 
