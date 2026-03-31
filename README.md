@@ -164,7 +164,8 @@ Query 8 helps depict how often the most popular menu item was ordered. This aids
 
 Query 9 counts the number of employees who have held the role of "front desk agent." It works by filtering the Employee table for only those records where the role column matches the title "front desk agent" and uses the COUNT(*) function to return the total number. This helps mangement organize how many staff members are assigned to the front desk. 
 
-10. 
+10.  Lists the payment ID made in July 2025
+
 <img width="607" height="615" alt="image" src="https://github.com/user-attachments/assets/40fb002b-929b-40d9-8f9c-043618660ece" />
 
 Query 10 selects the payment_id column and filters to show where the payment_date column year is 2025 and the month is July. This is helpful to track payments recieved in a specific month and year. 
