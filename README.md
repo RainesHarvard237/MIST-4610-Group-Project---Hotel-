@@ -166,4 +166,4 @@ Query 9 counts the number of employees who have held the role of "front desk age
 10. 
 <img width="607" height="615" alt="image" src="https://github.com/user-attachments/assets/40fb002b-929b-40d9-8f9c-043618660ece" />
 
-Query 10 selects the payment_id column and filters to show where the payment_date column year is 2025 and the month is July. 
+Query 10 selects the payment_id column and filters to show where the payment_date column year is 2025 and the month is July. This is helpful to track payments recieved in a specific month and year. 
