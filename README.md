@@ -35,7 +35,8 @@ The **HouseKeeping_Record** entity tracks each instance of a room being cleaned 
 
 Lastly, the **Review** entity allows quests to leave a review, star rating, any comments they want to share regarding reservation. Each review is tied to one reservation, which allows guests to share any feedback.
 
-<img width="1757" height="1160" alt="image" src="https://github.com/user-attachments/assets/ed3196a2-dc35-48dc-8e0d-3c3cecb65cf3" />
+<img width="1269" height="833" alt="correct data model for project 1" src="https://github.com/user-attachments/assets/cc12d5b1-4348-43e1-ae2a-b2b729e9b5e7" />
+
 
 # Data Dictionary 
 **Table: Reservation**
