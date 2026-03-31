@@ -82,7 +82,9 @@ Lastly, the **Review** entity allows quests to leave a review, star rating, any 
 
 2. Lists the name and emails of guests whose total spending across all reservations exceeds the average invoice amount, ordered by total spend in descending order
 
-3. 
+3. Lists all rooms that have no associated records in the the Maintenance_Request table, including which room they are in, the type of room and the floor.
+
+4. Calculates the average quest review rating for each room type, along with the total number of reviews submitted, ordered by average rating in descending order. 
 
 
 
