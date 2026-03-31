@@ -5,7 +5,7 @@
  1. Raines Harvard [@RainesHarvard237](https://github.com/RainesHarvard237/Raines-Harvard-Group-4-MIST-Project-1-Hotel)
  2. Grace Klatt [@gracecklatt](https://github.com/gracecklatt/MIST-4610-Hotel/blob/main/README.md)
  3. Rocco Garcia [@roccog2024](https://github.com/roccog2004/Group4Project)
- 4. Kory Cote [@Korycote](https://www.github.com/Korycote)
+ 4. Kory Cote [@Korycote](https://github.com/Korycote/Hotel-MIST4610)
 
 ## Problem Description
 The goal of this project is to model and build a relational database for the general operations of an organization. For our project we decided to create our data model for a fully functioning service hotel. The central entity in the model is Reservation which allows a tie to guest, rooms, employees, promotions, and financial data. The hotel operates a variety of departments and services, including a bar and restaurant, housekeeping, maintenance, and promotional campaigns. Our goal is to accurately model these relationships and generate sample data similar to that of a real hotel. Additionally, we will use the data model to create queries that can provide business insight into a hotel's daily operations, revenue performance, and service efficiency.
