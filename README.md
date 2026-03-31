@@ -3,8 +3,8 @@
 21479 Group 4
 ## Team Members 
  1. Raines Harvard [@RainesHarvard237](https://github.com/RainesHarvard237/Raines-Harvard-Group-4-MIST-Project-1-Hotel)
- 2. Grace Klatt [@gracecklatt](https://www.github.com/gracecklatt)
- 3. Rocco Garcia [@roccog2024](https://www.github.com/roccog2024)
+ 2. Grace Klatt [@gracecklatt](https://github.com/gracecklatt/MIST-4610-Hotel/blob/main/README.md)
+ 3. Rocco Garcia [@roccog2024](https://github.com/roccog2004/Group4Project)
  4. Kory Cote [@Korycote](https://www.github.com/Korycote)
 
 ## Problem Description
