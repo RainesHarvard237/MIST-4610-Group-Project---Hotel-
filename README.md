@@ -2,7 +2,7 @@
 # Team Name 
 21479 Group 4
 ## Team Members 
- 1. Raines Harvard [@RainesHarvard237](https://www.github.com/RainesHarvard237)
+ 1. Raines Harvard [@RainesHarvard237](https://github.com/RainesHarvard237/Raines-Harvard-Group-4-MIST-Project-1-Hotel)
  2. Grace Klatt [@gracecklatt](https://www.github.com/gracecklatt)
  3. Rocco Garcia [@roccog2024](https://www.github.com/roccog2024)
  4. Kory Cote [@Korycote](https://www.github.com/Korycote)
