@@ -145,10 +145,14 @@ Query 4 allows hotel management to better understand how guest satisfaction corr
 Query 6 identifies the hotel's best-selling menu items by total revenue. The managers of the resturants and bars can use this information to feature top performers in promotions, ensure ingredient inventory is fully stocked and evaluate if any adjustments need to be made to inhance profit margin. 
 
 7. Lists the invoice with the most expensive reservation.
+<img width="822" height="362" alt="image" src="https://github.com/user-attachments/assets/358f819b-c97f-4d91-aacb-94dabc9399e2" />
 
 8. Lists how many times the most popular menu item was consumed.
+<img width="823" height="427" alt="image" src="https://github.com/user-attachments/assets/e8f3ba0f-d24d-45f9-86aa-e7bcf1454aa0" />
 
 9. Calculate the percentage of guests that paid for their reservation with a credit card.
+<img width="802" height="421" alt="image" src="https://github.com/user-attachments/assets/4bf6b0f2-0b05-4508-8153-afa1d83c52b6" />
 
 10. List the date with the lowest payment of the year, as well as the email of the guest that made the payment.
+<img width="607" height="615" alt="image" src="https://github.com/user-attachments/assets/40fb002b-929b-40d9-8f9c-043618660ece" />
 
