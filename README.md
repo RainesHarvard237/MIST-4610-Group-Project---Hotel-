@@ -160,7 +160,7 @@ Query 7 allows hotel management to identify which guest associated with the high
 
 Query 8 helps depict how often the most popular menu item was ordered. This aids the restaurant when designing new menus and cuisine. They can design their menus around what customers are ordering. 
 
-10. Calculate the percentage of guests that paid for their reservation with a credit card.
+9. List the number of Employees with the role "Front Desk Agent"
 <img width="802" height="421" alt="image" src="https://github.com/user-attachments/assets/4bf6b0f2-0b05-4508-8153-afa1d83c52b6" />
 
 Query 9 counts the number of employees who have held the role of "front desk agent." It works by filtering the Employee table for only those records where the role column matches the title "front desk agent" and uses the COUNT(*) function to return the total number. This helps mangement organize how many staff members are assigned to the front desk. 
